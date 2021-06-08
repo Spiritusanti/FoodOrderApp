@@ -1,3 +1,3 @@
 # Food Order App
 
-1st major project for the Academind React - the complete guide
+React UI built to practice using React hooks
